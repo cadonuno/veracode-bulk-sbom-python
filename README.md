@@ -4,12 +4,6 @@ A small plugin that fetches all SBOMs available to the current user
 
 ## Purpose
 
-This tool reads all applications available in Veracode# veracode-policy-results-to-pipeline-json
-
-A small plugin that converts Veracode policy scan results into the equivalent pipeline scan output (for usage with Veracode Fix).
-
-## Purpose
-
 This tool reads Veracode policy result data and fetches their SBOM.
 
 ## Installation
