@@ -24,6 +24,9 @@ pip install -r requirements.txt
 1. Install dependencies (see Installation section above)
 2. If necessary, update the script with the necessary SBOM format by changing the value of the SBOM_FORMAT constant (defaults: cyclonedx)
 3. Run the plugin
+```bash
+py veracode-bulk-sbom-python.py
+```
 
 ## Output
 
